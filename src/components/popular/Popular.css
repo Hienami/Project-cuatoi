@@ -1,0 +1,25 @@
+/* File: Popular.css */
+
+.popular {
+    text-align: center;
+    margin: 20px;
+  }
+  
+  .popular h1 {
+    font-size: 50px;
+    margin-bottom: 10px;
+  }
+  
+  .popular hr {
+    border: 1px solid #ddd;
+    margin: 20px 0;
+  }
+  
+  .popular-item {
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: space-around;
+  }
+  
+  /* You can add more styles based on your needs */
+  
